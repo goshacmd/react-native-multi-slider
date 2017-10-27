@@ -21,6 +21,9 @@
     "component",
     "iOS"
   ],
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
   "author": "Danwhy, jrans",
   "license": "MIT",
   "bugs": {
